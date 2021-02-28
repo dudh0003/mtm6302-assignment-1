@@ -1,0 +1,14 @@
+body {
+    background-color: darkseagreen;
+}
+
+.heading-1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: black;
+    text-decoration-line: underline;
+}
+
+figcaption {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
